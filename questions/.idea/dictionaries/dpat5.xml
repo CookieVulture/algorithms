@@ -2,6 +2,7 @@
   <dictionary name="dpat5">
     <words>
       <w>bsearch</w>
+      <w>printf</w>
     </words>
   </dictionary>
 </component>
