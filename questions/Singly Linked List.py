@@ -82,6 +82,16 @@ class LinkedList:
             del start.data
             start = temp
 
+    def reverse(self):
+        past = None
+        present = self.head
+        while present is not None:
+            future = present.next
+            present.next = past
+            past = present
+            present = future
+        self.head = past
+
     def search(self, start, value):
         if not start:
             return False
@@ -100,4 +110,6 @@ test1.delkey(39)
 test1.delposition(3)
 print(test1.search(test1.head, 10))
 print(test1.search(test1.head, 110))
+test1.printf()
+test1.reverse()
 test1.printf()
