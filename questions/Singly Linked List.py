@@ -99,6 +99,14 @@ class LinkedList:
             return True
         return self.search(start.next, value)
 
+    def pairiter(self):
+        start = self.head
+        if start is None:
+            return
+        while start is not None and start.next is not None:
+            start.data, start.next.data = start.next.data, start.data
+            start = start.next.next
+
 
 test1 = LinkedList()
 test1.head = node(10)
@@ -113,4 +121,6 @@ print(test1.search(test1.head, 10))
 print(test1.search(test1.head, 110))
 test1.printf()
 test1.reverse()
+test1.printf()
+test1.pairiter()
 test1.printf()
