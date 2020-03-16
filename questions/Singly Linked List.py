@@ -99,6 +99,7 @@ class LinkedList:
             return True
         return self.search(start.next, value)
 
+
 test1 = LinkedList()
 test1.head = node(10)
 test1.head.next = node(20)

@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a3c6314a-c1d3-47d1-904f-07f7d8d3d332" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Node in sorted linked list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Merge Linked List.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../notes/Linked list.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../notes/Linked list.docx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Singly Linked List.py" beforeDir="false" afterPath="$PROJECT_DIR$/Singly Linked List.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -13,21 +15,21 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Node in sorted linked list.py">
+        <entry file="file://$PROJECT_DIR$/Singly Linked List.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="714">
-              <caret line="42" column="14" selection-start-line="42" selection-start-column="14" selection-end-line="42" selection-end-column="14" />
+            <state relative-caret-position="153">
+              <caret line="9" selection-end-line="9" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Singly Linked List.py">
+        <entry file="file://$PROJECT_DIR$/Merge Linked List.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="87" column="34" lean-forward="true" selection-start-line="87" selection-start-column="34" selection-end-line="87" selection-end-column="34" />
+            <state relative-caret-position="34">
+              <caret line="2" column="64" selection-start-line="2" selection-start-column="64" selection-end-line="2" selection-end-column="64" />
             </state>
           </provider>
         </entry>
@@ -56,6 +58,7 @@
         <option value="$PROJECT_DIR$/Avoid the Blocks.py" />
         <option value="$PROJECT_DIR$/Node in sorted linked list.py" />
         <option value="$PROJECT_DIR$/Singly Linked List.py" />
+        <option value="$PROJECT_DIR$/Merge Linked List.py" />
       </list>
     </option>
   </component>
@@ -71,7 +74,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Course" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -83,6 +85,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Course" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -224,7 +227,7 @@
   <component name="ToolWindowManager">
     <frame x="68" y="20" width="1400" height="784" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2770818" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2770818" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -315,8 +318,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Singly Linked List.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="87" column="34" lean-forward="true" selection-start-line="87" selection-start-column="34" selection-end-line="87" selection-end-column="34" />
+        <state relative-caret-position="153">
+          <caret line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Merge Linked List.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="64" selection-start-line="2" selection-start-column="64" selection-end-line="2" selection-end-column="64" />
         </state>
       </provider>
     </entry>
