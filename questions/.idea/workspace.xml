@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a3c6314a-c1d3-47d1-904f-07f7d8d3d332" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Josephus Circle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode Questions/Random pointer linked list.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../notes/Linked list.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../notes/Linked list.docx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Merge Linked List.py" beforeDir="false" afterPath="$PROJECT_DIR$/Merge Linked List.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,10 +17,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Josephus Circle.py">
+        <entry file="file://$PROJECT_DIR$/Singly Linked List.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+            <state relative-caret-position="-850">
+              <caret line="22" column="30" lean-forward="true" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -48,13 +49,14 @@
         <option value="$PROJECT_DIR$/Avoid the Blocks.py" />
         <option value="$PROJECT_DIR$/Node in sorted linked list.py" />
         <option value="$PROJECT_DIR$/Singly Linked List.py" />
-        <option value="$PROJECT_DIR$/Merge Linked List.py" />
         <option value="$PROJECT_DIR$/Reverse Pair Linked List.py" />
         <option value="$PROJECT_DIR$/Josephus Circle.py" />
+        <option value="$PROJECT_DIR$/Merge Linked List.py" />
+        <option value="$PROJECT_DIR$/Leetcode Questions/Random pointer linked list.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="85" />
     <option name="y" value="25" />
     <option name="width" value="1750" />
@@ -66,6 +68,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Course" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -73,11 +76,15 @@
               <item name="questions" type="b2602c69:ProjectViewProjectNode" />
               <item name="questions" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="questions" type="b2602c69:ProjectViewProjectNode" />
+              <item name="questions" type="462c0819:PsiDirectoryNode" />
+              <item name="Leetcode Questions" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Course" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -218,9 +225,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="68" y="20" width="1400" height="784" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2770818" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2770818" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -302,20 +308,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Singly Linked List.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="124" column="16" selection-start-line="124" selection-start-column="16" selection-end-line="124" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Merge Linked List.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-127">
-          <caret line="1" column="3" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Reverse Pair Linked List.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -333,7 +325,28 @@
     <entry file="file://$PROJECT_DIR$/Josephus Circle.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Merge Linked List.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="449">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Leetcode Questions/Random pointer linked list.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="25" lean-forward="true" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Singly Linked List.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-850">
+          <caret line="22" column="30" lean-forward="true" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
         </state>
       </provider>
     </entry>
